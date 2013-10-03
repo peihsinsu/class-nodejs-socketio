@@ -1,0 +1,16 @@
+{
+  "name": "socketioDemo",
+  "version": "0.0.1",
+  "description": "socketio demo",
+  "main": "app.js",
+  "repository": "",
+  "keywords": [
+    "socketio",
+    "demo"
+  ],
+  "author": "chengwei",
+  "license": "BSD",
+  "dependencies": {
+    "socket.io": "~0.9.16"
+  }
+}

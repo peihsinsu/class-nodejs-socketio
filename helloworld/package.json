@@ -1,0 +1,12 @@
+{
+  "name": "helloworld",
+  "version": "0.0.1",
+  "description": "",
+  "main": "client.js",
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "socket.io": "~0.9.16"
+  }
+}
